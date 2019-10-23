@@ -1,0 +1,4 @@
+servername = localhost
+username = admin
+password = admin_pwd
+dbname = sklep
